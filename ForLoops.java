@@ -6,8 +6,8 @@ public class ForLoops {
 			System.out.println("yahooo");
 		}
 		
-		System.out.println("done with for loops")
-		System.out.println("wait what about while loops")
+		System.out.println("done with for loops");
+		System.out.println("wait what about while loops");
 		
 	}
 }
